@@ -10,7 +10,7 @@
 
 A free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.
 
-### [Go to App](https://rxresu.me/) | [Docs](https://docs.rxresu.me/)
+
 
 ## Description
 
@@ -75,15 +75,7 @@ Start creating your standout resume with Talent Bloom today!
 - GitHub/Google OAuth (for quickly authenticating users)
 - LinguiJS and Crowdin (for translation management and localization)
 
-## Star History
 
-<a href="https://star-history.com/#ChaitanyaPillai/Reactive-Resume&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ChaitanyaPillai/Reactive-Resume&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ChaitanyaPillai/Reactive-Resume&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ChaitanyaPillai/Reactive-Resume&type=Date" />
-  </picture>
-</a>
 
 ## License
 
