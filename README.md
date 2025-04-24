@@ -1,4 +1,4 @@
-![Talent Bloom](https://i.imgur.com/FFc4nyZ.jpg)
+
 
 ![App Version](https://img.shields.io/github/package-json/version/ChaitanyaPillai/Reactive-Resume?label=version)
 [![Docker Pulls](https://img.shields.io/docker/pulls/Chaitanyapillai/reactive-resume)](https://hub.docker.com/repository/docker/Chaitanyapillai/reactive-resume)
